@@ -1,0 +1,2 @@
+Java developers are often converting one type of java object into other type of object. This leads to lot of template code. There are challenges in writing a generic and simple framework to convert one type of object to another. 
+I am trying to create a framework that can convert a graph of objects into flat object based on some metadata provided.
